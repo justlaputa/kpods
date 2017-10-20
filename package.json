@@ -1,0 +1,13 @@
+{
+  "name": "kpods",
+  "version": "0.0.1",
+  "description": "show kubernetes pods details",
+  "main": "index.js",
+  "author": "Xiao HAN",
+  "license": "MIT",
+  "dependencies": {
+    "columnify": "^1.5.4",
+    "moment": "^2.19.1",
+    "node-fetch": "^1.7.3"
+  }
+}
